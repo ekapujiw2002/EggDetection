@@ -6,7 +6,7 @@ This project is used to detect and count eggs with the opencv library.
 [![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
 )](http://mit-license.org)
 
-  <img src="https://github.com/harunozdemir/CashFlowApp/blob/master/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20-%202018-10-03%20at%2000.06.28.png" width="290">
+  <img src="https://github.com/harunozdemir/EggDetection/blob/master/master/Screen%20Shot%202018-10-26%20at%2017.26.21.png" >
 
 
 
