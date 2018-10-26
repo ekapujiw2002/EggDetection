@@ -16,6 +16,9 @@ You can also adjust the radius and area from the settings page.
 ## Description
   There are two blue and one green lines in the image. When the egg enters between two blue lines, the detection algorithm starts running.When the green line crosses, the number of eggs is increased by 1.
   
+  **P.S**:
+  I added a video file for testing. You can test it either through the video file or via the ip camera or via your webcam.
+  
 ## Requirements
 - Python 2.7.15+
 - OpenCV 3.4.2+ 
