@@ -1,4 +1,4 @@
-# EggDetection and Count
+# Egg Detection and Count
 
 This project is used to detect and count eggs with the opencv library.
 
